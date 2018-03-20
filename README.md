@@ -1,4 +1,7 @@
-changing in first clone
+<<<<<<< HEAD
+#changes done in new clone
+#abisek daww
+#super
 # PaperEval
 A basic try at evaluating answer scripts
 Chan and Vinu -> module 1
